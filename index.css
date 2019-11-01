@@ -1,0 +1,38 @@
+html, body {
+    background-color: FDF8F8;
+    font-size: 13px;
+    margin: 40px;
+    padding: 10px;
+    line-height: 1.5;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    font-size: 23px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+h2 {
+    font-size: 20px;
+}
+blockquote {
+    font-size: 15px;
+    line-height: 1;
+ }
+footer {
+     font-size: 11px;
+     color: grey;
+     line-height: 2;
+     font-style: italic;
+ }
+strong {
+    font-size: 14px;
+    letter-spacing: -1px;
+}
+section {
+    text-align: center;
+}
+img { 
+    width: 50%;
+}
