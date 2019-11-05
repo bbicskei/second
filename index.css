@@ -6,7 +6,7 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 div.content {
-    max-width: 900px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
